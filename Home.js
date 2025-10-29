@@ -1,0 +1,1 @@
+export default function Home(){return <div><h2>VyanaStore Home</h2></div>}
